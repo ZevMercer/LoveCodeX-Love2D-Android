@@ -1,3 +1,10 @@
+
+![Version](https://img.shields.io/badge/version-Alpha%20v1.0-blue)
+![Platform](https://img.shields.io/badge/platform-Android-green)
+![Engine](https://img.shields.io/badge/LÖVE-Love2D-red)
+![Language](https://img.shields.io/badge/language-Lua-purple)
+![Status](https://img.shields.io/badge/status-Active-success)
+
 # LoveCodeX-Love2D-Android
 Love CodeX is a lightweight Android Lua editor for LÖVE (Love2D). Create projects, edit scripts, import assets, and export runnable .love files directly from your phone.
 
