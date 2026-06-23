@@ -11,6 +11,8 @@ Love CodeX is a lightweight Android Lua editor for LÖVE (Love2D). Create projec
 # v1.0.0-alpha
 ### Love CodeX Alpha v1.0
 Rilis alpha pertama **Love CodeX** editor Lua untuk **LÖVE (Love2D)** di Android.
+### Donwload 
+https://github.com/ZevMercer/LoveCodeX-Love2D-Android/releases
 
 ### Sudah bisa:
 - membuat proyek LÖVE
